@@ -1,0 +1,211 @@
+%
+The Pragmatic Programmer Tip 1:
+    Care about your craft.
+%
+The Pragmatic Programmer Tip 2:
+   Think!  About your work.
+%
+The Pragmatic Programmer Tip 3:
+   Provide options, don't make lame excuses.
+%
+The Pragmatic Programmer Tip 4:
+   Don't live with broken windows.
+%
+The Pragmatic Programmer Tip 5:
+   Be a catalyst for change.
+%
+The Pragmatic Programmer Tip 6:
+   Remember the big picture.
+%
+The Pragmatic Programmer Tip 7:
+   Make quality a requirements issue.
+%
+The Pragmatic Programmer Tip 8:
+   Invest regularly in your knowledge portfolio.
+%
+The Pragmatic Programmer Tip 9:
+    Critically analyze what you read and hear.
+%
+The Pragmatic Programmer Tip 10:
+    It's both what you say and the way you say it.
+%
+The Pragmatic Programmer Tip 11:
+    DRY - Don't Repeat Yourself
+%
+The Pragmatic Programmer Tip 12:
+    Make it easy to reuse.
+%
+The Pragmatic Programmer Tip 13:
+    Eliminate effects between unrelated things.
+%
+The Pragmatic Programmer Tip 14:
+   There are no final decisions.
+%
+The Pragmatic Programmer Tip 15:
+    Use tracer bullets to find the target.
+%
+The Pragmatic Programmer Tip 16:
+    Prototype to learn.
+%
+The Pragmatic Programmer Tip 17:
+    Program close to the problem domain.
+%
+The Pragmatic Programmer Tip 18:
+    Estimate to avoid surprises.
+%
+The Pragmatic Programmer Tip 19:
+    Iterate the schedule with the code.
+%
+The Pragmatic Programmer Tip 20:
+    Keep knowledge in plain text.
+%
+The Pragmatic Programmer Tip 21:
+    User the power of command shells.
+%
+The Pragmatic Programmer Tip 22:
+    Use a single editor well.
+%
+The Pragmatic Programmer Tip 23:
+    Always use source code control.
+%
+The Pragmatic Programmer Tip 24:
+    Fix the problem, not the blame.
+%
+The Pragmatic Programmer Tip 25:
+    Don't panic when debugging.
+%
+The Pragmatic Programmer Tip 26:
+    "select" isn't broken.
+%
+The Pragmatic Programmer Tip 27:
+    Don't assume it -- prove it.
+%
+The Pragmatic Programmer Tip 28:
+    Learn a text manipulation language.
+%
+The Pragmatic Programmer Tip 29:
+    Write code that writes code.
+%
+The Pragmatic Programmer Tip 30:
+    You can't write perfect software.
+%
+The Pragmatic Programmer Tip 31:
+    Design with contracts.
+%
+The Pragmatic Programmer Tip 32:
+    Crash early.
+%
+The Pragmatic Programmer Tip 33:
+    Use assertions to prevent the impossible.
+%
+The Pragmatic Programmer Tip 34:
+    Use exceptions for exceptional problems.
+%
+The Pragmatic Programmer Tip 35:
+    Finish what you start.
+%
+The Pragmatic Programmer Tip 36:
+    Minimize coupling between modules.
+%
+The Pragmatic Programmer Tip 37:
+    Configure, don't integrate.
+%
+The Pragmatic Programmer Tip 38:
+    Put abstractions in code, details in metadata.
+%
+The Pragmatic Programmer Tip 39:
+    Analyze workflow to improve concurrency.
+%
+The Pragmatic Programmer Tip 40:
+    Design using services.
+%
+The Pragmatic Programmer Tip 41:
+    Always design for concurrency.
+%
+The Pragmatic Programmer Tip 42:
+    Separate views from models.
+%
+The Pragmatic Programmer Tip 43:
+    Use blackboards to coordinate workflow.
+%
+The Pragmatic Programmer Tip 44:
+    Don't program by coincidence.
+%
+The Pragmatic Programmer Tip 45:
+    Estimate the order of your algorithms.
+%
+The Pragmatic Programmer Tip 46:
+    Test your estimates.
+%
+The Pragmatic Programmer Tip 47:
+    Refactor early, refactor often.
+%
+The Pragmatic Programmer Tip 48:
+    Design to test.
+%
+The Pragmatic Programmer Tip 49:
+    Test your software, or your users will.
+%
+The Pragmatic Programmer Tip 50:
+    Don't use wizard code you don't understand.
+%
+The Pragmatic Programmer Tip 51:
+    Don't gather requirements -- dig for them.
+%
+The Pragmatic Programmer Tip 52:
+    Work with a user to think like a user.
+%
+The Pragmatic Programmer Tip 53:
+    Abstractions live longer than details.
+%
+The Pragmatic Programmer Tip 54:
+    Use a project glossary.
+%
+The Pragmatic Programmer Tip 55:
+    Don't think outside the box -- find the box.
+%
+The Pragmatic Programmer Tip 56:
+    Start when you're ready.
+%
+The Pragmatic Programmer Tip 57:
+    Some things are better done than described.
+%
+The Pragmatic Programmer Tip 58:
+    Don't be a slave to formal methods.
+%
+The Pragmatic Programmer Tip 59:
+    Costly tools don't produce better designs.
+%
+The Pragmatic Programmer Tip 60:
+    Organize teams around functionality.
+%
+The Pragmatic Programmer Tip 61:
+    Don't use manual procedures.
+%
+The Pragmatic Programmer Tip 62:
+    Test early.  Test often.  Test automatically.
+%
+The Pragmatic Programmer Tip 63:
+    Coding ain't done 'til all the tests run.
+%
+The Pragmatic Programmer Tip 64:
+    Use saboteurs to test your testing.
+%
+The Pragmatic Programmer Tip 65:
+    Test state coverage, not code coverage.
+%
+The Pragmatic Programmer Tip 66:
+    Find bugs once.
+%
+The Pragmatic Programmer Tip 67:
+    English is just a programming language.
+%
+The Pragmatic Programmer Tip 68:
+    Build documentation in, don't bolt it on.
+%
+The Pragmatic Programmer Tip 69:
+    Gently exceed your users' expectations.
+%
+The Pragmatic Programmer Tip 70:
+    Sign your work.
+%
